@@ -1,0 +1,8 @@
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\bin\Debug\ChaimnOfResponsibility.exe.config
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\bin\Debug\ChaimnOfResponsibility.exe
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\bin\Debug\ChaimnOfResponsibility.pdb
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\obj\Debug\ChaimnOfResponsibility.csproj.AssemblyReference.cache
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\obj\Debug\ChaimnOfResponsibility.csproj.SuggestedBindingRedirects.cache
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\obj\Debug\ChaimnOfResponsibility.csproj.CoreCompileInputs.cache
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\obj\Debug\ChaimnOfResponsibility.exe
+G:\Pratice\Final asp\ChaimnOfResponsibility\ChaimnOfResponsibility\obj\Debug\ChaimnOfResponsibility.pdb

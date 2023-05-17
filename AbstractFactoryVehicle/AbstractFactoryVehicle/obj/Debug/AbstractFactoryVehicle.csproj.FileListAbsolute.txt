@@ -1,0 +1,8 @@
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\bin\Debug\AbstractFactoryVehicle.exe.config
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\bin\Debug\AbstractFactoryVehicle.exe
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\bin\Debug\AbstractFactoryVehicle.pdb
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\obj\Debug\AbstractFactoryVehicle.csproj.AssemblyReference.cache
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\obj\Debug\AbstractFactoryVehicle.csproj.SuggestedBindingRedirects.cache
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\obj\Debug\AbstractFactoryVehicle.csproj.CoreCompileInputs.cache
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\obj\Debug\AbstractFactoryVehicle.exe
+G:\Pratice\Final asp\AbstractFactoryVehicle\AbstractFactoryVehicle\obj\Debug\AbstractFactoryVehicle.pdb

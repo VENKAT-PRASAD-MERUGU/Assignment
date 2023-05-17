@@ -1,0 +1,8 @@
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\bin\Debug\AbstractFamilyClass.exe.config
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\bin\Debug\AbstractFamilyClass.exe
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\bin\Debug\AbstractFamilyClass.pdb
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\obj\Debug\AbstractFamilyClass.csproj.AssemblyReference.cache
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\obj\Debug\AbstractFamilyClass.csproj.SuggestedBindingRedirects.cache
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\obj\Debug\AbstractFamilyClass.csproj.CoreCompileInputs.cache
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\obj\Debug\AbstractFamilyClass.exe
+G:\Pratice\Final asp\AbstractFamilyClass\AbstractFamilyClass\obj\Debug\AbstractFamilyClass.pdb
